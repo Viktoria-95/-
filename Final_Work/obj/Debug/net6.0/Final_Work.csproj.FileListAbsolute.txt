@@ -1,0 +1,15 @@
+D:\Git repozit\Final\Final\Final_Work\bin\Debug\net6.0\Final_Work.exe
+D:\Git repozit\Final\Final\Final_Work\bin\Debug\net6.0\Final_Work.deps.json
+D:\Git repozit\Final\Final\Final_Work\bin\Debug\net6.0\Final_Work.runtimeconfig.json
+D:\Git repozit\Final\Final\Final_Work\bin\Debug\net6.0\Final_Work.dll
+D:\Git repozit\Final\Final\Final_Work\bin\Debug\net6.0\Final_Work.pdb
+D:\Git repozit\Final\Final\Final_Work\obj\Debug\net6.0\Final_Work.csproj.AssemblyReference.cache
+D:\Git repozit\Final\Final\Final_Work\obj\Debug\net6.0\Final_Work.GeneratedMSBuildEditorConfig.editorconfig
+D:\Git repozit\Final\Final\Final_Work\obj\Debug\net6.0\Final_Work.AssemblyInfoInputs.cache
+D:\Git repozit\Final\Final\Final_Work\obj\Debug\net6.0\Final_Work.AssemblyInfo.cs
+D:\Git repozit\Final\Final\Final_Work\obj\Debug\net6.0\Final_Work.csproj.CoreCompileInputs.cache
+D:\Git repozit\Final\Final\Final_Work\obj\Debug\net6.0\Final_Work.dll
+D:\Git repozit\Final\Final\Final_Work\obj\Debug\net6.0\refint\Final_Work.dll
+D:\Git repozit\Final\Final\Final_Work\obj\Debug\net6.0\Final_Work.pdb
+D:\Git repozit\Final\Final\Final_Work\obj\Debug\net6.0\Final_Work.genruntimeconfig.cache
+D:\Git repozit\Final\Final\Final_Work\obj\Debug\net6.0\ref\Final_Work.dll
