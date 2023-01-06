@@ -32,20 +32,6 @@ string[] GetArrayOfThreeSymbols(string[] array)
     return result;
 }
 
-// string[] GetArray(string[] array)
-// {
-//     int GetArrayCount = 0;
-//     string[] preresult = new string[GetArrayCount];
-//     string[] result = preresult;
-//     for (int i = 0; i<array.Length; i++)
-//     {
-//         if (array[i].Length<=3)
-        
-
-//     }
-//     return result;
-// }
-
 
 void PrintArray(string[] array)
 {
@@ -64,7 +50,6 @@ void PrintArray(string[] array)
 
 string[] arrayOfStrings = Prompt("Введите элементы массива строк, отделяя каждый элемент массива точкой с запятой и пробелом (; ): ");
 string[] arrayOfThreeSymbols = GetArrayOfThreeSymbols(arrayOfStrings);
-// string[] arrayOfThreeSymbols = GetArray(arrayOfStrings);
 Console.Write("Сформированный массив из элементов введенного массива ");
 PrintArray(arrayOfStrings);
 Console.Write(", длина которых меньше или равна 3 символам, равен ");
